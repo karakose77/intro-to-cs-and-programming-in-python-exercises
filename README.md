@@ -15,3 +15,4 @@ Includes my exercise solutions from MIT intro to cs and programming in python on
 4. **"mk004-power_set.ipynb"**: Given a set of integers, generates the collections of all possible subsets.
 5. **"mk005-merge_sort.ipynb"**: Sorts a given list by using merge sort algorithm.
 6. **"mk006-largest_odd_number_of_the_three.ipynb"**: Finds the largest odd one in a given list of numbers.
+7. **"mk007-cleaning_a_string_of_numbers.ipynb"**: Cleans the string of numbers in a given string from non-numeric characters and put them into a list as floats.
