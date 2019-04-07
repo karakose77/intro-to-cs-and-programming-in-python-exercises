@@ -14,3 +14,4 @@ Includes my exercise solutions from MIT intro to cs and programming in python on
 3. **"mk003-fibonacci_rabbits.ipynb"**: Calculates the population of fibonacci rabbits after a given amount of time.
 4. **"mk004-power_set.ipynb"**: Given a set of integers, generates the collections of all possible subsets.
 5. **"mk005-merge_sort.ipynb"**: Sorts a given list by using merge sort algorithm.
+6. **"mk006-largest_odd_number_of_the_three.ipynb"**: Finds the largest odd one in a given list of numbers.
