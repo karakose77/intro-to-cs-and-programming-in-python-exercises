@@ -18,3 +18,8 @@ Includes my exercise solutions from MIT intro to cs and programming in python on
 7. **"mk007-cleaning_a_string_of_numbers.ipynb"**: Cleans the string of numbers in a given string from non-numeric characters and put them into a list as floats.
 8. **"mk008-recursive_multiplication.ipynb"**: Implementation of multiplication with recursive algorithm.
 9. **"mk009-selection_sort.ipynb"**: Sorts a given list by using selection sort algorithm.
+10. **"mk010-roll_over_optimization.ipynb"**: Given values for F, ps1, ps2, ps3, ps4, ps5 find values for a, b, c, d, e that maximizes score.
+
+    a, b, c, d, e are each 10 or 0.  
+    a + b + c + d + e $\geq$ 20  
+    score = (60 - (a + b + c + d + e)) $\cdot$ F + a $\cdot$ ps1 + b $\cdot$ ps2 + c $\cdot$ ps3 + d $\cdot$ ps4 + e $\cdot$ ps5
