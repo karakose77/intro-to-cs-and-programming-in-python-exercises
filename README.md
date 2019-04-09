@@ -24,3 +24,4 @@ Includes my exercise solutions from MIT intro to cs and programming in python on
     a + b + c + d + e $\geq$ 20  
     score = (60 - (a + b + c + d + e)) $\cdot$ F + a $\cdot$ ps1 + b $\cdot$ ps2 + c $\cdot$ ps3 + d $\cdot$ ps4 + e $\cdot$ ps5
 11. **"mk011-bubble_sort.ipynb"**: Sorts a given list by using bubble sort algorithm.
+12. **"mk012-recursive_hanoi_towers.ipynb"**: Solves the problem of Hanoi Disks(more info in notebook), recursively.
