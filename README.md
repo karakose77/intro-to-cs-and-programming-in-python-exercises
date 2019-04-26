@@ -9,19 +9,19 @@ Includes my exercise solutions from MIT intro to cs and programming in python on
 
 ## Table of Contents
 
-1. **"mk001-recursive_factorial.ipynb"**: Calculates factorials recursively.
-2. **"mk002-string_clean_and_palindrome.ipynb"**: Cleans strings from non-alphanumeric characters and then checks whether the cleaned string is a palindrome or not.
-3. **"mk003-fibonacci_rabbits.ipynb"**: Calculates the population of fibonacci rabbits after a given amount of time.
-4. **"mk004-power_set.ipynb"**: Given a set of integers, generates the collections of all possible subsets.
-5. **"mk005-merge_sort.ipynb"**: Sorts a given list by using merge sort algorithm.
-6. **"mk006-largest_odd_number_of_the_three.ipynb"**: Finds the largest odd one in a given list of numbers.
-7. **"mk007-cleaning_a_string_of_numbers.ipynb"**: Cleans the string of numbers in a given string from non-numeric characters and put them into a list as floats.
-8. **"mk008-recursive_multiplication.ipynb"**: Implementation of multiplication with recursive algorithm.
-9. **"mk009-selection_sort.ipynb"**: Sorts a given list by using selection sort algorithm.
-10. **"mk010-roll_over_optimization.ipynb"**: Given values for F, ps1, ps2, ps3, ps4, ps5 find values for a, b, c, d, e that maximizes score.
+1. **["mk001-recursive_factorial.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk001-recursive_factorial.ipynb)**: Calculates factorials recursively.
+2. **["mk002-string_clean_and_palindrome.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk002-string_clean_and_palindrome.ipynb)**: Cleans strings from non-alphanumeric characters and then checks whether the cleaned string is a palindrome or not.
+3. **"[mk003-fibonacci_rabbits.ipynb](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk003-fibonacci_rabbits.ipynb)"**: Calculates the population of fibonacci rabbits after a given amount of time.
+4. **["mk004-power_set.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk004-power_set.ipynb)**: Given a set of integers, generates the collections of all possible subsets.
+5. **["mk005-merge_sort.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk005-merge_sort.ipynb)**: Sorts a given list by using merge sort algorithm.
+6. **["mk006-largest_odd_number_of_the_three.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk006-largest_odd_number_of_the_three.ipynb)**: Finds the largest odd one in a given list of numbers.
+7. **["mk007-cleaning_a_string_of_numbers.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk007-cleaning_a_string_of_numbers.ipynb)**: Cleans the string of numbers in a given string from non-numeric characters and put them into a list as floats.
+8. **["mk008-recursive_multiplication.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk008-recursive_multiplication.ipynb)**: Implementation of multiplication with recursive algorithm.
+9. **["mk009-selection_sort.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk009-selection_sort.ipynb)**: Sorts a given list by using selection sort algorithm.
+10. **["mk010-roll_over_optimization.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk010-roll_over_optimization.ipynb)**: Given values for F, ps1, ps2, ps3, ps4, ps5 find values for a, b, c, d, e that maximizes score.
 
     a, b, c, d, e are each 10 or 0.  
     a + b + c + d + e $\geq$ 20  
     score = (60 - (a + b + c + d + e)) $\cdot$ F + a $\cdot$ ps1 + b $\cdot$ ps2 + c $\cdot$ ps3 + d $\cdot$ ps4 + e $\cdot$ ps5
-11. **"mk011-bubble_sort.ipynb"**: Sorts a given list by using bubble sort algorithm.
-12. **"mk012-recursive_hanoi_towers.ipynb"**: Solves the problem of Hanoi Disks(more info in notebook), recursively.
+11. **["mk011-bubble_sort.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk011-bubble_sort.ipynb)**: Sorts a given list by using bubble sort algorithm.
+12. **["mk012-recursive_hanoi_towers.ipynb"](https://github.com/karakose77/intro-to-cs-and-programming-in-python-exercises/blob/master/mk012-recursive_hanoi_towers.ipynb)**: Solves the problem of Hanoi Disks(more info in notebook), recursively.
